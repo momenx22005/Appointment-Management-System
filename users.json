@@ -73,5 +73,10 @@
     "username": "lana",
     "email": "lana@example.com",
     "password": "0562b166a76cfecfaf8f942fe229c9f71b711735fb0733cd58504ae058335567"
+  },
+  {
+    "username": "ffff",
+    "email": "ffff@example.com",
+    "password": "61be55a8e2f6b4e172338bddf184d6dbee29c98853e0a0485ecee7f27b9af0b4"
   }
 ]
